@@ -1,0 +1,6 @@
+@app.clientesQuiMel.api_HostAddress = http://localhost:5008
+
+GET {{app.clientesQuiMel.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

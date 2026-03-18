@@ -1,0 +1,6 @@
+@app.QuinonezMelissa.api_HostAddress = http://localhost:5009
+
+GET {{app.QuinonezMelissa.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
