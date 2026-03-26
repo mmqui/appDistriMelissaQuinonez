@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="app.clientesQuiMel.api/app.clientesQuiMel.api.csproj" />
+  <Project Path="../../../../../../../../appDistri2026/codeSource/apiNetcore/app.ClientesQuiMel.api/app.Clientes.Entities/app.Clientes.Entities.csproj" Id="cce56825-9ef7-4279-a482-cb13d70703b9" />
+  <Project Path="../../../../../../../../appDistri2026/codeSource/apiNetcore/app.ClientesQuiMel.api/app.ClientesQuiMel.accessData/app.ClientesQuiMel.Dataaccess.csproj" Id="946c4099-37bc-4b8a-a909-f6a24370ff03" DisplayName="app.ClientesQuiMel.dataAccess" />
+  <Project Path="../../../../../../../../appDistri2026/codeSource/apiNetcore/app.ClientesQuiMel.api/app.ClientesQuiMel.api/app.ClientesQuiMel.api.csproj" />
 </Solution>

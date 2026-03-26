@@ -1,0 +1,6 @@
+C:\appDistri2026\codeSource\apiNetcore\app.ClientesQuiMel.api\app.ClientesQuiMel.accessData\obj\Debug\net8.0\app.ClientesQuiMel.Dataaccess.csproj.AssemblyReference.cache
+C:\appDistri2026\codeSource\apiNetcore\app.ClientesQuiMel.api\app.ClientesQuiMel.accessData\obj\Debug\net8.0\app.ClientesQuiMel.Dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\appDistri2026\codeSource\apiNetcore\app.ClientesQuiMel.api\app.ClientesQuiMel.accessData\obj\Debug\net8.0\app.ClientesQuiMel.Dataaccess.AssemblyInfoInputs.cache
+C:\appDistri2026\codeSource\apiNetcore\app.ClientesQuiMel.api\app.ClientesQuiMel.accessData\obj\Debug\net8.0\app.ClientesQuiMel.Dataaccess.AssemblyInfo.cs
+C:\appDistri2026\codeSource\apiNetcore\app.ClientesQuiMel.api\app.ClientesQuiMel.accessData\obj\Debug\net8.0\app.ClientesQuiMel.Dataaccess.csproj.CoreCompileInputs.cache
+C:\appDistri2026\codeSource\apiNetcore\app.ClientesQuiMel.api\app.ClientesQuiMel.accessData\obj\Debug\net8.0\app.ClientesQuiMel.Dataaccess.sourcelink.json

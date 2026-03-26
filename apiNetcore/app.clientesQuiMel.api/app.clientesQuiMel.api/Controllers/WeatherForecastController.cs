@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace app.clientesQuiMel.api.Controllers
+namespace app.ClientesQuiMel.api.Controllers
 {
     [ApiController]
     [Route("[controller]")]

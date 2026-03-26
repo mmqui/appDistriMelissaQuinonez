@@ -1,4 +1,4 @@
-namespace app.clientesQuiMel.api
+namespace app.ClientesQuiMel.api
 {
     public class WeatherForecast
     {

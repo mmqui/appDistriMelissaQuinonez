@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("app.QuinonezMelissa.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a248cc0dddb0c3e1dfeb291e2dc9b76c9f421c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+670e53be552e7467bff1df00006438851e0fa7fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("app.QuinonezMelissa.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("app.QuinonezMelissa.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

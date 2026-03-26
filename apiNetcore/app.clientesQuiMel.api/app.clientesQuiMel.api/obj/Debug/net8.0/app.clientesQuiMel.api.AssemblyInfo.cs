@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("app.clientesQuiMel.api")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("app.ClientesQuiMel.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("app.clientesQuiMel.api")]
-[assembly: System.Reflection.AssemblyTitleAttribute("app.clientesQuiMel.api")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+670e53be552e7467bff1df00006438851e0fa7fd")]
+[assembly: System.Reflection.AssemblyProductAttribute("app.ClientesQuiMel.api")]
+[assembly: System.Reflection.AssemblyTitleAttribute("app.ClientesQuiMel.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
