@@ -64,3 +64,7 @@ URL Imagen
  https://canva.link/o21yu1fctwk9591
 
  https://canva.link/z94yxfhlleo6vp6
+
+<div style="background-color:#f0f8ff; padding:15px; border-radius:10px;">
+Este es un bloque con fondo de color
+</div>
