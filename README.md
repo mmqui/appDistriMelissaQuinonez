@@ -1,4 +1,4 @@
-                                                        <h1 align="center"><b>Mapas Mentales y Documentación en README.md</b></h1>
+<h1 align="center"><b>Mapas Mentales y Documentación en README.md</b></h1>
 
 **Aplicaciones Distribuidas**
 
