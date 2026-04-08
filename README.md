@@ -36,7 +36,7 @@ El enfoque Database First significa que primero se crea la base de datos y luego
 
 ## Mapas Mentales
 
-![Mapa mental#1](https://lucid.app/lucidspark/79b8d51f-e290-456e-a7d8-e4624cfe427d/edit?viewport_loc=-3040%2C-843%2C5273%2C2506%2C0_0&invitationId=inv_0d990ff7-fe75-420f-943d-c5d24d19a3b4)
+<img width="996" height="679" alt="image" src="https://github.com/user-attachments/assets/42153b50-72b2-4e22-8b24-f507e830fa04" />
 
 <img width="886" height="508" alt="image" src="https://github.com/user-attachments/assets/b5d387fd-fa21-4889-9cfd-24bd866bb1a2" />
 
