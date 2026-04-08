@@ -10,3 +10,4 @@ https://canva.link/o21yu1fctwk9591
 Principios SOLID
 Los Principios SOLID son un conjunto de 5 reglas de diseño de software que ayudan a crear código más limpio, flexible, mantenible y escalable.
 https://canva.link/z94yxfhlleo6vp6
+Conclusión personal:En conjunto, todos estos conceptos forman la base del desarrollo de software moderno, permitiendo crear aplicaciones escalables, eficientes y fáciles de mantener en entornos reales.
