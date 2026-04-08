@@ -1,4 +1,4 @@
-**Melissa Maribel Quinonez Mieles**
+<h3 align="center">Melissa Maribel Quiñonez Mieles</h3>
 
 
 <h1 align="center"><b>Mapas Mentales y Documentación en README.md</b></h1>
