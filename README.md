@@ -34,6 +34,16 @@ DbContext es una clase abstracta que se puede heredar para crear una clase concr
 El enfoque Database First significa que primero se crea la base de datos y luego se genera el modelo de Entity Framework Core a partir de ella.
 </p>
 
+**Code First**
+<p align="center">
+El enfoque code first en Entity Framework core significa que se diseñan y se programan las clases de nuestro modelo de datos en código, y luego Entity Framework Core crea la base de datos, o las tablas correspondientes a partir de dichas clases.
+</p>
+
+**Claves foráneas**
+<p align="center">
+Una clave foránea (Foreign Key) es un campo en una tabla que hace referencia a la clave primaria de otra tabla, estableciendo una relación entre ambas.
+</p>
+
 ## Mapas Mentales
 
 <img width="996" height="679" alt="image" src="https://github.com/user-attachments/assets/42153b50-72b2-4e22-8b24-f507e830fa04" />
