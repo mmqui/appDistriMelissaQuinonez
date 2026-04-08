@@ -1,3 +1,9 @@
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#e3f2fd">
+
+
+
 <h3 align="center">Melissa Maribel Quiñonez Mieles</h3>
 
 
@@ -65,6 +71,3 @@ URL Imagen
 
  https://canva.link/z94yxfhlleo6vp6
 
-<div style="background-color:#f0f8ff; padding:15px; border-radius:10px;">
-Este es un bloque con fondo de color
-</div>
