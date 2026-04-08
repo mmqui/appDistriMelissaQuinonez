@@ -28,6 +28,12 @@ Es una librería creada por Microsoft que nos permite acceder a las bases de dat
 DbContext es una clase abstracta que se puede heredar para crear una clase concreta que represente el contexto de la base de datos de nuestra aplicación. Esta clase concreta se utiliza para configurar la conexión a la base de datos, definir las entidades que se almacenarán en la base de datos y aplicar cambios en la base de datos.
 </p>
 
+**Database First¨**
+
+<p align="center">
+El enfoque Database First significa que primero se crea la base de datos y luego se genera el modelo de Entity Framework Core a partir de ella.
+</p>
+
 ## Mapas Mentales
 
 <img width="996" height="679" alt="image" src="https://github.com/user-attachments/assets/84806a57-4eb8-4f06-9080-096cf3828d7e" />
