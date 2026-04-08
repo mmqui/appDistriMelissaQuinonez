@@ -1,9 +1,12 @@
 #Mapas Mentales y Documentación en README.md
+
 #Aplicaciones Distribuidas
+
 #Melissa Maribel Quinonez Mieles
+
 Este proyecto resume conceptos clave del desarrollo de software moderno, como aplicaciones distribuidas, Web API, principios SOLID, arquitectura en capas, programación asíncrona y herramientas como Docker y Kubernetes. Incluye un mapa mental y conclusiones para facilitar su comprensión
 
-## Screenshots
+## Mapas Mentales
 
 <img width="996" height="679" alt="image" src="https://github.com/user-attachments/assets/84806a57-4eb8-4f06-9080-096cf3828d7e" />
 
