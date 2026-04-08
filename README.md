@@ -22,7 +22,7 @@ Es un sistema de mensajería (message broker) que permite que diferentes aplicac
 
 Es una librería creada por Microsoft que nos permite acceder a las bases de datos, principalmente relacionales, de una forma muy simple. 
 
-¿Qué es DbContext y DbSet?
+**¿Qué es DbContext y DbSet?**
 
 <p align="center">
 DbContext es una clase abstracta que se puede heredar para crear una clase concreta que represente el contexto de la base de datos de nuestra aplicación. Esta clase concreta se utiliza para configurar la conexión a la base de datos, definir las entidades que se almacenarán en la base de datos y aplicar cambios en la base de datos.
