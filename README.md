@@ -1,9 +1,3 @@
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#d0e7ff" style="padding:20px; border-radius:10px;">
-
-
-
 <h3 align="center">Melissa Maribel Quiñonez Mieles</h3>
 
 
