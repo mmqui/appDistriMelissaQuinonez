@@ -4,6 +4,7 @@
 
 <h3 align="center">Aplicaciones Distribuidas</h3>
 
+
 **Melissa Maribel Quinonez Mieles**
 
 Este proyecto resume conceptos clave del desarrollo de software moderno, como aplicaciones distribuidas, Web API, principios SOLID, arquitectura en capas, programación asíncrona y herramientas como Docker y Kubernetes. Incluye un mapa mental y conclusiones para facilitar su comprensión
