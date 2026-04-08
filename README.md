@@ -2,7 +2,7 @@
 
 
 
-**Aplicaciones Distribuidas**
+<h3 align="center">Aplicaciones Distribuidas</h3>
 
 **Melissa Maribel Quinonez Mieles**
 
