@@ -14,6 +14,10 @@ El Patrón API Gateway es una arquitectura en la que se utiliza un único punto 
 
 Es un sistema de mensajería (message broker) que permite que diferentes aplicaciones se comuniquen entre sí enviando y recibiendo mensajes a través de cola
 
+**Entity Framework Core**
+
+Es una librería creada por Microsoft que nos permite acceder a las bases de datos, principalmente relacionales, de una forma muy simple. 
+
 ## Mapas Mentales
 
 <img width="996" height="679" alt="image" src="https://github.com/user-attachments/assets/84806a57-4eb8-4f06-9080-096cf3828d7e" />
