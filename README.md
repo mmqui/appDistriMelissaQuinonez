@@ -58,6 +58,14 @@ En general, estos conocimientos son fundamentales para desarrollar aplicaciones 
 
 <img width="886" height="508" alt="image" src="https://github.com/user-attachments/assets/b5d387fd-fa21-4889-9cfd-24bd866bb1a2" />
 
+
+<h3 align="center">Web API</h3>
+
+<p align="center">
+Una API es el punto de entrada del exterior a tu proyecto.
+</p>
+
+
 <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/2da87a5f-403b-42db-9be5-7b6fe2dcab63" />
 
 
