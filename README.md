@@ -56,7 +56,9 @@ En mi opinión, todos estos temas son muy importantes porque ayudan a entender c
 En general, estos conocimientos son fundamentales para desarrollar aplicaciones más organizadas, eficientes y preparadas para el mundo real.
 
 </p>
-<h3 align="center">Web API</h3>
+<h3 align="center">Web API
+
+</h3>
 
 <p align="center">
 Una API es el punto de entrada del exterior a tu proyecto.
