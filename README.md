@@ -89,6 +89,20 @@ Estos indican que el problema está en la solicitud que hizo el usuario o client
 Estos indican que el problema está en el servidor, aunque la solicitud del cliente sea correcta.
 </p>
 
+**Diferencia entre DTO y entidad**
+
+<p align="center">
+ Un DTO es un “Data Transfer Object” y es el objeto que vamos a devolver desde nuestras API hacia otros servicios. Y únicamente debe contener datos, nada de lógica de negocio. 
+</p>
+<p align="center">
+ 
+ Una entidad se compone de dos puntos
+
+*Un objeto que representa datos de la base de datos; Como podría ser un objeto que represente cada fila de la base de datos.
+*Entidad que encapsula reglas críticas de nuestra aplicación que están relacionadas con este objeto. Y que pueden contener cierta lógica de negocio. 
+</p>
+
+
 
 <img width="886" height="508" alt="image" src="https://github.com/user-attachments/assets/b5d387fd-fa21-4889-9cfd-24bd866bb1a2" />
 
