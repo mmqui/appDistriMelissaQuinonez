@@ -72,7 +72,9 @@ Una API es el punto de entrada del exterior a tu proyecto.
 Los métodos HTTP son acciones que indican qué operación se quiere realizar sobre un recurso en un servidor (como una API).
 </p>
 
-<img width="589" height="590" alt="image" src="https://github.com/user-attachments/assets/eb63e669-c2db-404d-9cdf-55aeece4f409" />
+<p align="center">
+  <img width="416" height="499" alt="image" src="https://github.com/user-attachments/assets/59a0353d-be07-440f-ad2e-b6dedb52fa50" />
+</p>
 
 
 <h3 align="center">Códigos de respuesta (40x, 50x)</h3>
