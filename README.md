@@ -99,6 +99,8 @@ Estos indican que el problema está en el servidor, aunque la solicitud del clie
  Una entidad se compone de dos puntos
 
 *Un objeto que representa datos de la base de datos; Como podría ser un objeto que represente cada fila de la base de datos.
+
+
 *Entidad que encapsula reglas críticas de nuestra aplicación que están relacionadas con este objeto. Y que pueden contener cierta lógica de negocio. 
 </p>
 
