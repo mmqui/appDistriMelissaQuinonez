@@ -63,6 +63,7 @@ Una API es el punto de entrada del exterior a tu proyecto.
 </p>
 
 **Métodos HTTP (GET, POST, PUT, DELETE, OPTIONS**
+
 <p align="center">
 Los métodos HTTP son acciones que indican qué operación se quiere realizar sobre un recurso en un servidor (como una API).
 </p>
