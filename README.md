@@ -102,6 +102,13 @@ Estos indican que el problema está en el servidor, aunque la solicitud del clie
 *Entidad que encapsula reglas críticas de nuestra aplicación que están relacionadas con este objeto. Y que pueden contener cierta lógica de negocio. 
 </p>
 
+ <h3 align="center">Estructura de una aplicación</h3>
+
+<p align="center">
+ Es la distribución lógica y física del código, donde cada parte cumple una función específica (interfaz, lógica, datos, etc.), permitiendo que la aplicación sea ordenada, entendible y eficiente.
+</p>
+ 
+ <img width="416" height="499" alt="image" src="https://github.com/user-attachments/assets/59a0353d-be07-440f-ad2e-b6dedb52fa50" />
 
 
 <img width="886" height="508" alt="image" src="https://github.com/user-attachments/assets/b5d387fd-fa21-4889-9cfd-24bd866bb1a2" />
