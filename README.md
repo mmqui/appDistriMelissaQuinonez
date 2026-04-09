@@ -34,12 +34,12 @@ DbContext es una clase abstracta que se puede heredar para crear una clase concr
 El enfoque Database First significa que primero se crea la base de datos y luego se genera el modelo de Entity Framework Core a partir de ella.
 </p>
 
-**Code First**
+<h3 align="center">Code Firstt</h3>
 <p align="center">
 El enfoque code first en Entity Framework core significa que se diseñan y se programan las clases de nuestro modelo de datos en código, y luego Entity Framework Core crea la base de datos, o las tablas correspondientes a partir de dichas clases.
 </p>
 
-**Claves foráneas**
+<h3 align="center">Claves foráneas</h3>
 <p align="center">
 Una clave foránea (Foreign Key) es un campo en una tabla que hace referencia a la clave primaria de otra tabla, estableciendo una relación entre ambas.
 </p>
@@ -49,7 +49,7 @@ Una clave foránea (Foreign Key) es un campo en una tabla que hace referencia a 
 
 
 
-**Conclusión personal**
+<h3 align="center">Conclusión personal</h3>
 
 <p align="center">
 En mi opinión, todos estos temas son muy importantes porque ayudan a entender cómo funcionan las aplicaciones modernas. las aplicaciones distribuidas permiten trabajar con varios sistemas al mismo tiempo, y que herramientas como API Gateway y RabbitMQ facilitan la comunicación entre ellos.
@@ -60,15 +60,13 @@ En general, estos conocimientos son fundamentales para desarrollar aplicaciones 
 
 
 </p>
-<h3 align="center">Web API
-
-</h3>
+<h3 align="center">Web API</h3>
 
 <p align="center">
 Una API es el punto de entrada del exterior a tu proyecto.
 </p>
 
-**Métodos HTTP (GET, POST, PUT, DELETE, OPTIONS**
+<h3 align="center">Métodos HTTP (GET, POST, PUT, DELETE, OPTIONS</h3>
 
 <p align="center">
 Los métodos HTTP son acciones que indican qué operación se quiere realizar sobre un recurso en un servidor (como una API).
@@ -76,20 +74,20 @@ Los métodos HTTP son acciones que indican qué operación se quiere realizar so
 
 <img width="589" height="590" alt="image" src="https://github.com/user-attachments/assets/eb63e669-c2db-404d-9cdf-55aeece4f409" />
 
-**Códigos de respuesta (40x, 50x)**
+<h3 align="center">Códigos de respuesta (40x, 50x)</h3>
 <p align="center">
 Los códigos de respuesta HTTP 40x y 50x son mensajes que envía un servidor para indicar que algo salió mal al procesar una solicitud.
 
- **Códigos 40x (Errores del cliente)**
+ <h3 align="center">Códigos 40x (Errores del cliente)</h3>
 
 Estos indican que el problema está en la solicitud que hizo el usuario o cliente (por ejemplo, un navegador o aplicación).
 
-**Códigos 50x (Errores del servidor)**
+ <h3 align="center">Códigos 50x (Errores del servidor)</h3>
 
 Estos indican que el problema está en el servidor, aunque la solicitud del cliente sea correcta.
 </p>
 
-**Diferencia entre DTO y entidad**
+ <h3 align="center">Diferencia entre DTO y entidad</h3>
 
 <p align="center">
  Un DTO es un “Data Transfer Object” y es el objeto que vamos a devolver desde nuestras API hacia otros servicios. Y únicamente debe contener datos, nada de lógica de negocio. 
@@ -111,7 +109,7 @@ Estos indican que el problema está en el servidor, aunque la solicitud del clie
 <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/2da87a5f-403b-42db-9be5-7b6fe2dcab63" />
 
 
-## Conclusión personal
+ <h3 align="center">Conclusión personal</h3>
 
 En conjunto, todos estos conceptos forman la base del desarrollo de software moderno, permitiendo crear aplicaciones escalables, eficientes y fáciles de mantener en entornos reales
 
