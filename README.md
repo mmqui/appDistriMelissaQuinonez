@@ -113,8 +113,6 @@ Estos indican que el problema está en el servidor, aunque la solicitud del clie
   <img width="416" height="499" alt="image" src="https://github.com/user-attachments/assets/59a0353d-be07-440f-ad2e-b6dedb52fa50" />
 </p>
  
- <img width="416" height="499" alt="image" src="https://github.com/user-attachments/assets/59a0353d-be07-440f-ad2e-b6dedb52fa50" />
- 
 <h3 align="center">Inyección de dependencias</h3>
 
 <p align="center">
