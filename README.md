@@ -18,17 +18,17 @@ El Patrón API Gateway es una arquitectura en la que se utiliza un único punto 
 
 Es un sistema de mensajería (message broker) que permite que diferentes aplicaciones se comuniquen entre sí enviando y recibiendo mensajes a través de cola
 
-**Entity Framework Core**
+<h3 align="center">Entity Framework Core?</h3>
 
 Es una librería creada por Microsoft que nos permite acceder a las bases de datos, principalmente relacionales, de una forma muy simple. 
 
-**¿Qué es DbContext y DbSet?**
+<h3 align="center">¿Qué es DbContext y DbSet</h3>
 
 <p align="center">
 DbContext es una clase abstracta que se puede heredar para crear una clase concreta que represente el contexto de la base de datos de nuestra aplicación. Esta clase concreta se utiliza para configurar la conexión a la base de datos, definir las entidades que se almacenarán en la base de datos y aplicar cambios en la base de datos.
 </p>
 
-**Database First¨**
+<h3 align="center">Database First</h3>
 
 <p align="center">
 El enfoque Database First significa que primero se crea la base de datos y luego se genera el modelo de Entity Framework Core a partir de ella.
