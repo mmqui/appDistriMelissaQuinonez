@@ -74,9 +74,11 @@ Los métodos HTTP son acciones que indican qué operación se quiere realizar so
 
 <img width="589" height="590" alt="image" src="https://github.com/user-attachments/assets/eb63e669-c2db-404d-9cdf-55aeece4f409" />
 
+
 <h3 align="center">Códigos de respuesta (40x, 50x)</h3>
 <p align="center">
 Los códigos de respuesta HTTP 40x y 50x son mensajes que envía un servidor para indicar que algo salió mal al procesar una solicitud.
+
 
  <h3 align="center">Códigos 40x (Errores del cliente)</h3>
 
@@ -107,7 +109,10 @@ Estos indican que el problema está en el servidor, aunque la solicitud del clie
 <p align="center">
  Es la distribución lógica y física del código, donde cada parte cumple una función específica (interfaz, lógica, datos, etc.), permitiendo que la aplicación sea ordenada, entendible y eficiente.
 </p>
- 
+
+ <p align="center">
+  <img src=""image" src="https://github.com/user-attachments/assets/59a0353d-be07-440f-ad2e-b6dedb52fa50" alt="Descripción" width="300"/>
+</p>
  <img width="416" height="499" alt="image" src="https://github.com/user-attachments/assets/59a0353d-be07-440f-ad2e-b6dedb52fa50" />
  
 <h3 align="center">Inyección de dependencias</h3>
