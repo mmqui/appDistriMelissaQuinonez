@@ -109,10 +109,10 @@ Estos indican que el problema está en el servidor, aunque la solicitud del clie
 <p align="center">
  Es la distribución lógica y física del código, donde cada parte cumple una función específica (interfaz, lógica, datos, etc.), permitiendo que la aplicación sea ordenada, entendible y eficiente.
 </p>
-
- <p align="center">
-  <img src=""image" src="https://github.com/user-attachments/assets/59a0353d-be07-440f-ad2e-b6dedb52fa50" alt="Descripción" width="300"/>
+<p align="center">
+  <img width="416" height="499" alt="image" src="https://github.com/user-attachments/assets/59a0353d-be07-440f-ad2e-b6dedb52fa50" />
 </p>
+ 
  <img width="416" height="499" alt="image" src="https://github.com/user-attachments/assets/59a0353d-be07-440f-ad2e-b6dedb52fa50" />
  
 <h3 align="center">Inyección de dependencias</h3>
