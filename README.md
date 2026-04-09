@@ -169,7 +169,10 @@ Docker sirve para que una aplicación funcione igual en cualquier entorno (tu co
  <h3 align="center">Conclusión personal</h3>
 
  <p align="center">
-  En conjunto, todos estos conceptos forman la base del desarrollo de software moderno, permitiendo crear aplicaciones escalables, eficientes y fáciles de mantener en entornos reales
+  El estudio de conceptos como los métodos HTTP, los códigos de respuesta, la estructura de aplicaciones, los principios SOLID, la arquitectura en N capas, la programación asíncrona y herramientas como Docker y Kubernetes permite comprender que el desarrollo de software moderno exige no solo funcionalidad, sino también organización, eficiencia y escalabilidad.
+
+En conjunto, estos elementos evidencian la importancia de diseñar sistemas bien estructurados, mantenibles y adaptables, capaces de responder a las demandas actuales y futuras del entorno tecnológico.
+
 </p>
 URL Imagen
 
