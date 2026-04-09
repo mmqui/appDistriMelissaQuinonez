@@ -10,11 +10,11 @@
 
 Este proyecto resume conceptos clave del desarrollo de software moderno, como aplicaciones distribuidas, Web API, principios SOLID, arquitectura en capas, programación asíncrona y herramientas como Docker y Kubernetes. Incluye un mapa mental y conclusiones para facilitar su comprensión
 
-**Qué es una API Gateway?**
+<h3 align="center">Qué es una API Gateway?</h3>
 
 El Patrón API Gateway es una arquitectura en la que se utiliza un único punto de entrada para que los clientes (web, móvil, etc.) se comuniquen con múltiples servicios del backend
 
-**RabbitMQ**
+<h3 align="center">RabbitMQ?</h3>
 
 Es un sistema de mensajería (message broker) que permite que diferentes aplicaciones se comuniquen entre sí enviando y recibiendo mensajes a través de cola
 
