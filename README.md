@@ -148,6 +148,20 @@ Realizar todas las llamadas de una forma asíncrona hace que nuestro código sea
 Utilizar async / await hace que nuestro código sea mucho más claro y limpio que utilizando hilos, que sinceramente es un jaleo. 
 </p>
 
+ <h3 align="center">Docker</h3>
+ 
+<p align="center">
+ 
+Docker sirve para que una aplicación funcione igual en cualquier entorno (tu computadora, servidor o nube), evitando problemas de “en mi máquina sí funciona”.
+ 
+</p>
+
+<h3 align="center">Kubernetes</h3>
+
+<p align="center">
+ Kubernetes (también llamado K8s) es una plataforma que permite gestionar, escalar y automatizar contenedores (como los de Docker)
+</p>
+
 
 <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/2da87a5f-403b-42db-9be5-7b6fe2dcab63" />
 
