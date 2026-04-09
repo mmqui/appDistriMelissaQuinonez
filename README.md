@@ -44,9 +44,17 @@ El enfoque code first en Entity Framework core significa que se diseñan y se pr
 Una clave foránea (Foreign Key) es un campo en una tabla que hace referencia a la clave primaria de otra tabla, estableciendo una relación entre ambas.
 </p>
 
-## Mapas Mentales
 
 <img width="996" height="679" alt="image" src="https://github.com/user-attachments/assets/42153b50-72b2-4e22-8b24-f507e830fa04" />
+
+**Conclusión personal**
+
+<p align="center">
+En mi opinión, todos estos temas son muy importantes porque ayudan a entender cómo funcionan las aplicaciones modernas. Aprendí que las aplicaciones distribuidas permiten trabajar con varios sistemas al mismo tiempo, y que herramientas como API Gateway y RabbitMQ facilitan la comunicación entre ellos.
+
+ Entity Framework Core hace más fácil trabajar con bases de datos, y que conceptos como DbContext, DbSet, Database First y Code First ayudan a organizar mejor la información. Además, las claves foráneas son importantes para mantener relaciones correctas entre los datos.
+En general, estos conocimientos son fundamentales para desarrollar aplicaciones más organizadas, eficientes y preparadas para el mundo real.
+</p>
 
 <img width="886" height="508" alt="image" src="https://github.com/user-attachments/assets/b5d387fd-fa21-4889-9cfd-24bd866bb1a2" />
 
