@@ -73,7 +73,7 @@ Los métodos HTTP son acciones que indican qué operación se quiere realizar so
 </p>
 
 <p align="center">
-  <img width="416" height="499" alt="image" src="https://github.com/user-attachments/assets/59a0353d-be07-440f-ad2e-b6dedb52fa50" />
+  <img width="2048" height="1639" alt="image" src="https://github.com/user-attachments/assets/1ad2d57e-4d8c-41f4-b6ea-9264bafcd2dd" />
 </p>
 
 
