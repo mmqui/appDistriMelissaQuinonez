@@ -126,13 +126,21 @@ El código es mucho más limpio y legible.
 
 <img width="886" height="508" alt="image" src="https://github.com/user-attachments/assets/b5d387fd-fa21-4889-9cfd-24bd866bb1a2" />
 
+ <h3 align="center">Principios SOLID</h3>
+
+ <p align="center">
+SOLID es un acrónimo que representa cinco principios que buscan reducir la complejidad y mejorar la calidad del software.
+
+</p>
+
 <img width="886" height="498" alt="image" src="https://github.com/user-attachments/assets/2da87a5f-403b-42db-9be5-7b6fe2dcab63" />
 
 
  <h3 align="center">Conclusión personal</h3>
 
-En conjunto, todos estos conceptos forman la base del desarrollo de software moderno, permitiendo crear aplicaciones escalables, eficientes y fáciles de mantener en entornos reales
-
+ <p align="center">
+  En conjunto, todos estos conceptos forman la base del desarrollo de software moderno, permitiendo crear aplicaciones escalables, eficientes y fáciles de mantener en entornos reales
+</p>
 URL Imagen
 
  https://lucid.app/lucidspark/79b8d51f-e290-456e-a7d8-e4624cfe427d/edit?viewport_loc=-3040%2C-843%2C5273%2C2506%2C0_0&invitationId=inv_0d990ff7-fe75-420f-943d-c5d24d19a3b4
