@@ -50,7 +50,7 @@ Una clave foránea (Foreign Key) es un campo en una tabla que hace referencia a 
 **Conclusión personal**
 
 <p align="center">
-En mi opinión, todos estos temas son muy importantes porque ayudan a entender cómo funcionan las aplicaciones modernas. Aprendí que las aplicaciones distribuidas permiten trabajar con varios sistemas al mismo tiempo, y que herramientas como API Gateway y RabbitMQ facilitan la comunicación entre ellos.
+En mi opinión, todos estos temas son muy importantes porque ayudan a entender cómo funcionan las aplicaciones modernas. las aplicaciones distribuidas permiten trabajar con varios sistemas al mismo tiempo, y que herramientas como API Gateway y RabbitMQ facilitan la comunicación entre ellos.
 
  Entity Framework Core hace más fácil trabajar con bases de datos, y que conceptos como DbContext, DbSet, Database First y Code First ayudan a organizar mejor la información. Además, las claves foráneas son importantes para mantener relaciones correctas entre los datos.
 En general, estos conocimientos son fundamentales para desarrollar aplicaciones más organizadas, eficientes y preparadas para el mundo real.
