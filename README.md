@@ -109,6 +109,14 @@ Estos indican que el problema está en el servidor, aunque la solicitud del clie
 </p>
  
  <img width="416" height="499" alt="image" src="https://github.com/user-attachments/assets/59a0353d-be07-440f-ad2e-b6dedb52fa50" />
+ 
+<h3 align="center">Inyección de dependencias</h3>
+
+<p align="center">
+La inyección de dependencias nos permite crear aplicaciones que son mucho más fáciles de mantener y trabajar en ellas. 
+Además debido a las abstracciones nos permite crear interfaces que nos ayudan a la hora de crear test. 
+El código es mucho más limpio y legible.  
+</p>
 
 
 <img width="886" height="508" alt="image" src="https://github.com/user-attachments/assets/b5d387fd-fa21-4889-9cfd-24bd866bb1a2" />
