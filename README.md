@@ -47,6 +47,8 @@ Una clave foránea (Foreign Key) es un campo en una tabla que hace referencia a 
 
 <img width="996" height="679" alt="image" src="https://github.com/user-attachments/assets/42153b50-72b2-4e22-8b24-f507e830fa04" />
 
+
+
 **Conclusión personal**
 
 <p align="center">
@@ -54,6 +56,8 @@ En mi opinión, todos estos temas son muy importantes porque ayudan a entender c
 
  Entity Framework Core hace más fácil trabajar con bases de datos, y que conceptos como DbContext, DbSet, Database First y Code First ayudan a organizar mejor la información. Además, las claves foráneas son importantes para mantener relaciones correctas entre los datos.
 En general, estos conocimientos son fundamentales para desarrollar aplicaciones más organizadas, eficientes y preparadas para el mundo real.
+
+
 
 </p>
 <h3 align="center">Web API
